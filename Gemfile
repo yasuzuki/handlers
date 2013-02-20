@@ -15,6 +15,7 @@ gem "jquery-rails"
 
 # To use debugger
 # gem 'debugger'
+gem 'rdiscount'
 
 gem 'capybara'
 gem 'pry'

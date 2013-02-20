@@ -81,3 +81,24 @@ Processing by HandlersController#show as HTML
   Rendered handlers/show.html.string within layouts/application (0.3ms)
 Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
   [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-20 23:01:21 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 23:01:21 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 23:01:21 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.2ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
