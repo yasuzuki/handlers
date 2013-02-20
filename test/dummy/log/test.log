@@ -22,3 +22,62 @@ Processing by HandlersController#index as HTML
   Rendered handlers/index.html.rb within layouts/application (0.4ms)
 Completed 200 OK in 22ms (Views: 21.1ms | ActiveRecord: 0.0ms)
   [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 22:37:22 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.4ms)
+Completed 200 OK in 24ms (Views: 23.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 22:37:22 +0900
+Processing by HandlersController#show as HTML
+Completed 500 Internal Server Error in 8ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 22:40:27 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.4ms)
+Completed 200 OK in 20ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 22:40:27 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.2ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 22:40:40 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.5ms)
+Completed 200 OK in 28ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 22:40:40 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 14ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 22:40:54 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 21ms (Views: 20.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 22:40:54 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
