@@ -102,3 +102,381 @@ Processing by HandlersController#show as HTML
   Rendered handlers/show.html.string within layouts/application (0.2ms)
 Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
   [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-20 23:38:17 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-20 23:38:18 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (6.2ms)
+Completed 500 Internal Server Error in 8ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 23:38:18 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 23:38:18 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-20 23:51:49 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-20 23:51:49 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (5.9ms)
+Completed 500 Internal Server Error in 7ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 23:51:50 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 23:51:50 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-20 23:52:33 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-20 23:52:58 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (6.0ms)
+Completed 500 Internal Server Error in 8ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 23:53:25 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 23:53:26 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.2ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-20 23:53:46 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-20 23:53:46 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (5.9ms)
+Completed 500 Internal Server Error in 8ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 23:53:46 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 23:53:46 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.2ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-20 23:56:21 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-20 23:56:21 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (60305.1ms)
+Completed 500 Internal Server Error in 60306ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 23:57:21 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 23:57:21 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-20 23:57:48 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.7ms)
+Completed 200 OK in 21ms (Views: 20.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-20 23:57:48 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (6.0ms)
+Completed 500 Internal Server Error in 7ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-20 23:57:48 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-20 23:57:48 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.2ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-20 23:58:08 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 20ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-20 23:58:08 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (348406.1ms)
+Completed 500 Internal Server Error in 348407ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-21 00:03:57 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-21 00:03:57 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-21 00:04:05 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-21 00:04:05 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (274892.2ms)
+Completed 500 Internal Server Error in 274894ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-21 00:08:39 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-21 00:08:40 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.2ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-21 00:09:08 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.5ms)
+Completed 200 OK in 21ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-21 00:09:09 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (30705.2ms)
+Completed 500 Internal Server Error in 30707ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-21 00:09:39 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-21 00:09:39 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-21 22:26:10 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 22.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-21 22:26:10 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (81506.3ms)
+Completed 500 Internal Server Error in 81508ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-21 22:27:32 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-21 22:27:32 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-21 22:35:39 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 23ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-21 22:35:39 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (237647.1ms)
+Completed 200 OK in 237650ms (Views: 237649.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-21 22:39:37 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.5ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-21 22:39:37 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-21 22:41:01 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-21 22:41:02 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (8.4ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-21 22:41:57 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-21 22:41:57 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-21 22:42:05 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-21 22:42:05 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (8.0ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-21 22:42:06 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-21 22:42:06 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/rdiscount" for 127.0.0.1 at 2013-02-21 22:42:38 +0900
+Processing by HandlersController#rdiscount as HTML
+  Rendered handlers/rdiscount.html.md within layouts/application (0.6ms)
+Completed 200 OK in 21ms (Views: 20.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/merb" for 127.0.0.1 at 2013-02-21 22:42:38 +0900
+Processing by HandlersController#merb as HTML
+  Rendered handlers/merb.html.merb within layouts/application (8.1ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/index" for 127.0.0.1 at 2013-02-21 22:42:38 +0900
+Processing by HandlersController#index as HTML
+  Rendered handlers/index.html.rb within layouts/application (0.3ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/handlers/show" for 127.0.0.1 at 2013-02-21 22:42:38 +0900
+Processing by HandlersController#show as HTML
+  Rendered handlers/show.html.string within layouts/application (0.3ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
